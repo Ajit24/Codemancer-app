@@ -10,3 +10,6 @@ function App() {
 }
 
 export default App;
+
+// -------deployed link of the react-app ----------
+//        https://messagebox-ajit.vercel.app/
